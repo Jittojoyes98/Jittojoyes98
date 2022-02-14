@@ -8,3 +8,6 @@
 - Reach me out 
 - Happy Coding
 ### 
+
+
+[![Jitto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jittojoyes98)](https://github.com/Jittojoyes98/github-readme-stats)
