@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for internships.
 - 👯 I’m looking to collaborate on some basic open source projects.
 - Ask me about React.
-- Reach me out at [https://twitter.com/JittoJoyes](JittoJoyes)
+- Reach me out at [@JittoJoyes](https://twitter.com/JittoJoyes)
 - Happy Coding
 ### 
 
