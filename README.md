@@ -9,8 +9,6 @@
 - Happy Coding
 ### 
 
-
-[![Jitto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jittojoyes98)](https://github.com/Jittojoyes98/github-readme-stats)
 <details>
 <summary>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨&nbsp;&nbsp; Languages and Tools  <img src="https://user-images.githubusercontent.com/75932477/153186887-e749deb6-4bf0-4155-8581-5ebbfdf9d255.gif" width="30"/>&nbsp;🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</summary>
 <p>
