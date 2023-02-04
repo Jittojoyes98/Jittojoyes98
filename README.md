@@ -9,6 +9,10 @@
 - Happy Coding
 ### 
 
+## 📫 Connect with me on
+
+<a href="https://www.linkedin.com/in/jittojoyes/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:jittojoyes77@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/JittoJoyes"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  <a href="https://hashnode.com/@JITZ"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+
 <details>
 <summary>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨&nbsp;&nbsp; Languages and Tools  <img src="https://user-images.githubusercontent.com/75932477/153186887-e749deb6-4bf0-4155-8581-5ebbfdf9d255.gif" width="30"/>&nbsp;🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</summary>
 <p>
@@ -38,3 +42,17 @@
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 </details>
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jittojoyes98&show_icons=true&theme=radical)](https://github.com/Jittojoyes98/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Jittojoyes98&theme=radical)](https://github.com/Jittojoyes98/github-readme-stats)
+
+
+
+
+## 👀 Profile views
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Jittojoyes98}/count.svg) 
