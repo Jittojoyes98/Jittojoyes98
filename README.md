@@ -45,9 +45,9 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jittojoyes98&show_icons=true&theme=radical)](https://github.com/Jittojoyes98/github-readme-stats)
+[![Jittojoyes98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jittojoyes98&show_icons=true&theme=radical)](https://github.com/Jittojoyes98/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Jittojoyes98&theme=radical)](https://github.com/Jittojoyes98/github-readme-stats)
+[![Jittojoyes98's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Jittojoyes98&theme=radical)](https://github.com/Jittojoyes98/github-readme-stats)
 
 
 
