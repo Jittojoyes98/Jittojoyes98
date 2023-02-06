@@ -55,4 +55,4 @@
 ## 👀 Profile views
 
 
-![Visitor Count](![](https://komarev.com/ghpvc/?username=Jittojoyes98/)) 
+![](https://komarev.com/ghpvc/?username=Jittojoyes98) 
