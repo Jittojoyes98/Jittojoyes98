@@ -55,4 +55,4 @@
 ## 👀 Profile views
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Jittojoyes98}/count.svg) 
+![Visitor Count](![](https://komarev.com/ghpvc/?username=Jittojoyes98/)) 
