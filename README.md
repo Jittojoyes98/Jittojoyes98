@@ -1,8 +1,8 @@
 <h1><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="30"/> Hi there 👋 Nice to see you<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-- 🌱 I’m currently working on web dev. 
+- 🌱 I’m currently working as a Software developer at Qburst. 
 - :bowing_man:   I'm currently exploring full stack and mainly focussing on front-end.
-- 🔭 I’m currently looking for internships.
+- 🔭 I’m currently learning Node js.
 - 👯 I’m looking to collaborate on some basic open source projects.
 - Ask me about React.
 - Reach me out at [@JittoJoyes](https://twitter.com/JittoJoyes)
@@ -29,8 +29,8 @@
 <!--  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<!--  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> -->
-<!--  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/> -->
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
@@ -51,8 +51,6 @@
 
 
 
-
 ## 👀 Profile views
 
-
-![](https://komarev.com/ghpvc/?username=Jittojoyes98) 
+![Visitor Count](https://profile-counter.glitch.me/{Jittojoyes98}/count.svg) 
