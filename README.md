@@ -1,17 +1,18 @@
 <h1><img src="https://user-images.githubusercontent.com/75932477/153186735-654c2334-8436-4a52-b266-577ce19bdf68.gif" width="30"/> Hi there 👋 Nice to see you<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-- 🌱 I’m currently working as a Software developer at Qburst. 
-- :bowing_man:   I'm currently exploring full stack and mainly focussing on front-end.
+- 🌱 I’m currently working as a Software developer at Qburst.
+- :bowing_man: I'm currently exploring full stack and mainly focussing on front-end.
 - 🔭 I’m currently learning Node js.
 - 👯 I’m looking to collaborate on some basic open source projects.
 - Ask me about React.
 - Reach me out at [@JittoJoyes](https://twitter.com/JittoJoyes)
 - Happy Coding
-### 
+
+###
 
 ## 📫 Connect with me on
 
-<a href="https://www.linkedin.com/in/jittojoyes/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:jittojoyes77@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/JittoJoyes"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  <a href="https://hashnode.com/@JITZ"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/jittojoyes/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:jittojoyes77@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://twitter.com/JittoJoyes"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://hashnode.com/@JITZ"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 <details>
 <summary>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨&nbsp;&nbsp; Languages and Tools  <img src="https://user-images.githubusercontent.com/75932477/153186887-e749deb6-4bf0-4155-8581-5ebbfdf9d255.gif" width="30"/>&nbsp;🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</summary>
@@ -40,6 +41,11 @@
 <!--  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> -->
 <!--  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img alt="MUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+   <img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
+   <img alt="Webpack" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 </details>
 
@@ -49,8 +55,6 @@
 
 [![Jittojoyes98's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Jittojoyes98&theme=radical)](https://github.com/Jittojoyes98/github-readme-stats)
 
-
-
 ## 👀 Profile views
 
-![Visitor Count](https://profile-counter.glitch.me/{Jittojoyes98}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{Jittojoyes98}/count.svg)
